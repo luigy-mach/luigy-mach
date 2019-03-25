@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.0f92fe87.chunk.css",
-  "main.js": "/static/js/main.56088777.chunk.js",
-  "main.js.map": "/static/js/main.56088777.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.b934461c.chunk.js": "/static/js/2.b934461c.chunk.js",
-  "static/js/2.b934461c.chunk.js.map": "/static/js/2.b934461c.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.de36b0c5b4e13bc8819a3e1285b63e6f.js": "/precache-manifest.de36b0c5b4e13bc8819a3e1285b63e6f.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.0f92fe87.chunk.css.map": "/static/css/main.0f92fe87.chunk.css.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  "main.css": "/luigy-mach/static/css/main.0f92fe87.chunk.css",
+  "main.js": "/luigy-mach/static/js/main.f69e02dd.chunk.js",
+  "main.js.map": "/luigy-mach/static/js/main.f69e02dd.chunk.js.map",
+  "runtime~main.js": "/luigy-mach/static/js/runtime~main.bdd57a0c.js",
+  "runtime~main.js.map": "/luigy-mach/static/js/runtime~main.bdd57a0c.js.map",
+  "static/js/2.b934461c.chunk.js": "/luigy-mach/static/js/2.b934461c.chunk.js",
+  "static/js/2.b934461c.chunk.js.map": "/luigy-mach/static/js/2.b934461c.chunk.js.map",
+  "index.html": "/luigy-mach/index.html",
+  "precache-manifest.4ffb87df58a441bb67974514b6d4639f.js": "/luigy-mach/precache-manifest.4ffb87df58a441bb67974514b6d4639f.js",
+  "service-worker.js": "/luigy-mach/service-worker.js",
+  "static/css/main.0f92fe87.chunk.css.map": "/luigy-mach/static/css/main.0f92fe87.chunk.css.map",
+  "static/media/logo.svg": "/luigy-mach/static/media/logo.5d5d9eef.svg"
 }
